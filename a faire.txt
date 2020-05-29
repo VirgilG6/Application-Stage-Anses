@@ -1,0 +1,12 @@
+stats - recherche par mot clé
+
+- cb de projet par unité OK
+- cb inter-unité OK
+- domaine scientifique OK
+- par fincancement et nb total de financement 
+- par retenu et non retenu OK
+- par chef de projet (unité)
+- taux de réussite par unité 
+- projet par organisme
+- par type de méthode / substance
+- nbr de personne recruté
