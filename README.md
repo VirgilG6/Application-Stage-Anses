@@ -14,7 +14,10 @@ git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 
 ## Objective
 ### Background
+For project tracking, the company used an Excel spreadsheet. Not all the boxes in the table were filled in because project managers did not take the time to fill in everything or did not know how to fill in some of them.
+
 ### Object of the mission
+The mission was to replace the Excel table with a web application that would be available on the company's Intranet.
 
 ## Steps
 ### Step 1
