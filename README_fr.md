@@ -1,5 +1,5 @@
 # Présentation de l'application de suivi de projets
-![alt text](C:\VG\php\symfony\slamquiz\assets\screenshot_home1.jpg)
+![alt text](https://github.com/VirgilG6/Application-Stage-Anses/blob/master/assets/accueil.png)
 
 ## Installation
 1. Créer un espace de stockage sur votre ordinateur (exemple: suivi_de_projets):
