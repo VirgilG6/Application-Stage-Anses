@@ -36,4 +36,4 @@ git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 
 ## Conclusion
 ### Difficulties encountered
-### How could this be improved ?
+### How could the application be improved ?

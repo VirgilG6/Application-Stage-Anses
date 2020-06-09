@@ -14,7 +14,11 @@ git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 
 ## Objectif
 ### Contexte
+```
+Pour faire le suivi des projets, l’entreprise utilisait un tableau Excel. Toute les cases du tableau n’était pas remplies car les chefs de projets ne prenaient pas le temps de tout remplir ou ils ne savaient pas comment en remplir certaines.
+```
 ### Objet de la mission
+La mission était de remplacer le tableau Excel par une application web qui serait disponible sur l’intranet de l’entreprise.
 
 ## Étapes
 ### Étape 1
@@ -36,4 +40,4 @@ git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 
 ## Conclusion
 ### Difficultés rencontrées
-### Comment cela pourrait être amélioré ?
+### Comment l'application pourrait être amélioré ?
