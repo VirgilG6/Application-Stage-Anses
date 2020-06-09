@@ -18,17 +18,17 @@ git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 
 ## Steps
 ### Step 1
-##### Potential solutions
-##### Solution chosen
-##### How did you choose ?
+1. Potential solutions
+2. Solution chosen
+3. How did you choose ?
 ### Step 2
-##### Potential solutions
-##### Solution chosen
-##### How did you choose ?
+1. Potential solutions
+2. Solution chosen
+3. How did you choose ?
 ### Step 3
-##### Potential solutions
-##### Solution chosen
-##### How did you choose ?
+1. Potential solutions
+2. Solution chosen
+3. How did you choose ?
 
 ## Skills
 ### Which skills have been validated ?

@@ -18,17 +18,17 @@ git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 
 ## Étapes
 ### Étape 1
-##### Solutions envisageables
-##### Solution choisie
-##### Comment c’est fait le choix ?
+1. Solutions envisageables
+2. Solution choisie
+3. Comment c’est fait le choix ?
 ### Étape 2
-##### Solutions envisageables
-##### Solution choisie
-##### Comment c’est fait le choix ?
+1. Solutions envisageables
+2. Solution choisie
+3. Comment c’est fait le choix ?
 ### Étape 3
-##### Solutions envisageables
-##### Solution choisie
-##### Comment c’est fait le choix ?
+1. Solutions envisageables
+2. Solution choisie
+3. Comment c’est fait le choix ?
 
 ## Compétences
 ### Quelles compétences ont été validé ?
