@@ -12,4 +12,28 @@ cd suivi_de_projets
 git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 ```
 
+## Objective
+### Background
+### Object of the mission
 
+## Steps
+### Step 1
+##### Potential solutions
+##### Solution chosen
+##### How did you choose ?
+### Step 2
+##### Potential solutions
+##### Solution chosen
+##### How did you choose ?
+### Step 3
+##### Potential solutions
+##### Solution chosen
+##### How did you choose ?
+
+## Skills
+### Which skills have been validated ?
+### Justification
+
+## Conclusion
+### Difficulties encountered
+### How could this be improved ?
