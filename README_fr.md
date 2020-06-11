@@ -34,6 +34,7 @@ Après avoir fait le Modèle Entité Association et le Modèle Relationnel, nous
 ### Étape 3
 Ensuite, nous avons créer l’interface de l’application ainsi que la création d’un nouveau projet et la visualisation des formulaires de suivi de projets.
 
+#### Création d'un nouveau projet
 ```
 <form  action='validate/validate_new_project.php' >
     <h1> creation d'un nouveau projet </h1> 

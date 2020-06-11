@@ -33,6 +33,7 @@ After doing the Association Entity Model and the Relational Model, we were able 
 ### Step 3
 Then we created the interface of the application as well as the creation of a new project and the visualization of the project tracking forms.
 
+#### Create a new project
 ```
 <form  action='validate/validate_new_project.php' >
     <h1> creation d'un nouveau projet </h1> 
