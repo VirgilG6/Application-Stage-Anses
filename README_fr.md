@@ -22,14 +22,32 @@ La mission était de remplacer le tableau Excel par une application web qui sera
 
 ## Étapes
 ### Étape 1
-1. Solutions envisageables
-2. Solution choisie
-3. Comment c’est fait le choix ?
+La première étape, était d’analyser le tableau Excel qu’on nous avait fourni pour faire le Modèle Entité Association (MEA) et le Modèle Relationnel (MR).
+
+![alt text](https://github.com/VirgilG6/Application-Stage-Anses/blob/master/assets/MEA.png)
+![alt text](https://github.com/VirgilG6/Application-Stage-Anses/blob/master/assets/MR.png)
+
 ### Étape 2
 1. Solutions envisageables
 2. Solution choisie
 3. Comment c’est fait le choix ?
 ### Étape 3
+1. Solutions envisageables
+2. Solution choisie
+3. Comment c’est fait le choix ?
+### Étape 4
+1. Solutions envisageables
+2. Solution choisie
+3. Comment c’est fait le choix ?
+### Étape 5
+1. Solutions envisageables
+2. Solution choisie
+3. Comment c’est fait le choix ?
+### Étape 6
+1. Solutions envisageables
+2. Solution choisie
+3. Comment c’est fait le choix ?
+### Étape 7
 1. Solutions envisageables
 2. Solution choisie
 3. Comment c’est fait le choix ?

@@ -21,14 +21,32 @@ The mission was to replace the Excel table with a web application that would be 
 
 ## Steps
 ### Step 1
-1. Potential solutions
-2. Solution chosen
-3. How did you choose ?
+The first step was to analyze the Excel spreadsheet we were provided to do the Association Entity Model (AEM) and the Relationship Model (RM).
+
+![alt text](https://github.com/VirgilG6/Application-Stage-Anses/blob/master/assets/MEA.png)
+![alt text](https://github.com/VirgilG6/Application-Stage-Anses/blob/master/assets/MR.png)
+
 ### Step 2
 1. Potential solutions
 2. Solution chosen
 3. How did you choose ?
 ### Step 3
+1. Potential solutions
+2. Solution chosen
+3. How did you choose ?
+### Step 4
+1. Potential solutions
+2. Solution chosen
+3. How did you choose ?
+### Step 5
+1. Potential solutions
+2. Solution chosen
+3. How did you choose ?
+### Step 6
+1. Potential solutions
+2. Solution chosen
+3. How did you choose ?
+### Step 7
 1. Potential solutions
 2. Solution chosen
 3. How did you choose ?
