@@ -793,10 +793,38 @@ La quatrième étape, a été de créer l’interface de connexions. Les solutio
 1. Solutions envisageables
 2. Solution choisie
 3. Comment c’est fait le choix ?
+
 ### Étape 7
-1. Solutions envisageables
-2. Solution choisie
-3. Comment c’est fait le choix ?
+La dernière étape a été de faire un espace d’administration accessible seulement par les administrateurs, pour cela nous avons créé un compte administrateur qui est directement inséré dans la base de données.
+```
+<?php
+    session_start();
+
+    if (isset($_SESSION['username'])) {
+        if (isset($_SESSION['mdp']))
+        {
+            echo " <div id='cssmenu'>  
+                <ul>
+                    <li><a href='index.php'>Accueil</a></li>
+                    <li><a href='Pages/new_project.php'>Ajouter un projet</a></li>
+                    <li><a href='my_project.php'>Mes projets</a></li>";
+                    if ($_SESSION['user_role'] == 'ROLE_ADMIN') {
+
+                        echo "	<li><a href='Pages/Admin/Administration.php'>Administration</a></li>";                   
+                    }
+
+                    echo " <li class='session'><a href='Pages/form_connection/disconnection.php'>Deconnexion</a></li>
+                    <li class='session'><a href='#'>".$_SESSION['user_name']." ".$_SESSION['user_lastname']."</a></li>
+                </ul>
+ 			</div>  ";
+        } else {
+            header('Location:form_connection/connection.php');
+        }
+    } else {
+        header('Location:form_connection/connection.php');
+    }
+?> 
+```
 
 
 ## Compétences

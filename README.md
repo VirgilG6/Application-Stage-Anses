@@ -793,10 +793,38 @@ The fourth step was to create the connection interface. The solutions we had wer
 1. Potential solutions
 2. Solution chosen
 3. How did you choose ?
+
 ### Step 7
-1. Potential solutions
-2. Solution chosen
-3. How did you choose ?
+The last step was to make an administration area accessible only by administrators, for this we have created an administrator account that is directly inserted in the database.
+```
+<?php
+    session_start();
+
+    if (isset($_SESSION['username'])) {
+        if (isset($_SESSION['mdp']))
+        {
+            echo " <div id='cssmenu'>  
+                <ul>
+                    <li><a href='index.php'>Accueil</a></li>
+                    <li><a href='Pages/new_project.php'>Ajouter un projet</a></li>
+                    <li><a href='my_project.php'>Mes projets</a></li>";
+                    if ($_SESSION['user_role'] == 'ROLE_ADMIN') {
+
+                        echo "	<li><a href='Pages/Admin/Administration.php'>Administration</a></li>";                   
+                    }
+
+                    echo " <li class='session'><a href='Pages/form_connection/disconnection.php'>Deconnexion</a></li>
+                    <li class='session'><a href='#'>".$_SESSION['user_name']." ".$_SESSION['user_lastname']."</a></li>
+                </ul>
+ 			</div>  ";
+        } else {
+            header('Location:form_connection/connection.php');
+        }
+    } else {
+        header('Location:form_connection/connection.php');
+    }
+?> 
+```
 
 
 ## Skills
