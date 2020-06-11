@@ -24,16 +24,15 @@ The mission was to replace the Excel table with a web application that would be 
 The first step was to analyze the Excel spreadsheet we were provided to do the Association Entity Model (AEM) and the Relationship Model (RM).
 
 ![alt text](https://github.com/VirgilG6/Application-Stage-Anses/blob/master/assets/MEA.png)
+
 ![alt text](https://github.com/VirgilG6/Application-Stage-Anses/blob/master/assets/MR.png)
 
 ### Step 2
-1. Potential solutions
-2. Solution chosen
-3. How did you choose ?
+After doing the Association Entity Model and the Relational Model, we were able to create the database.
+
 ### Step 3
-1. Potential solutions
-2. Solution chosen
-3. How did you choose ?
+Next, we created the interface of the application as well as the project tracking forms.
+
 ### Step 4
 1. Potential solutions
 2. Solution chosen
