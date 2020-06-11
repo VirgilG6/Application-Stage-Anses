@@ -783,9 +783,8 @@ echo "	</center>
 ```
 
 ### Étape 4
-1. Solutions envisageables
-2. Solution choisie
-3. Comment c’est fait le choix ?
+La quatrième étape, a été de créer l’interface de connexions. Les solutions que nous avions était soit de reprendre les identifiants et les mots de passe utilisé pour les sessions et pour l’Intranet ou qu’à la première connexion les utilisateurs s’inscrivent. Nous avons choisi que les utilisateurs s’inscrivent lors de leur première connexion. Ce choix a été fait car les mots de passe étant crypté par Wordpress on n’arrivait pas à faire en sorte qu’ils soient décryptés par notre code lors de la connexion.
+
 ### Étape 5
 1. Solutions envisageables
 2. Solution choisie
@@ -810,7 +809,7 @@ Vous pouvez retrouver mon projet, mes documentations (d’utilisation et d’adm
 
 ## Conclusion
 ### Difficultés rencontrées
-Les difficultés qu’on a rencontrées sont la génération automatique d’un nouveau code projet, comprenant deux lettres et deux chiffres, pour chaque projet créé et pouvoir générer un PDF grâce à un bouton servant à cela.
+Les difficultés qu’on a rencontrées sont les mots de passe crypté par Wordpress qu’on n’arrivait pas à faire en sorte qu’ils soient décryptés par notre code lors de la connexion, la génération automatique d’un nouveau code projet, comprenant deux lettres et deux chiffres, pour chaque projet créé et pouvoir générer un PDF grâce à un bouton servant à cela.
 
 ### Comment l'application pourrait être amélioré ?
 L’application pourrait être amélioré par des statistiques par exemple sur le nombre de projet par unité, le nombre de projet inter-unité, …

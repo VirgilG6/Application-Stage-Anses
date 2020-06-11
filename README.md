@@ -783,9 +783,8 @@ echo "	</center>
 ```
 
 ### Step 4
-1. Potential solutions
-2. Solution chosen
-3. How did you choose ?
+The fourth step was to create the connection interface. The solutions we had were either to take back the usernames and passwords used for the sessions and for the Intranet or that at the first connection the users register. We have chosen that users register when they first log in. This choice was made because the passwords being encrypted by Wordpress we could not make sure that they were decrypted by our code when connecting.
+
 ### Step 5
 1. Potential solutions
 2. Solution chosen
@@ -810,7 +809,7 @@ You can find my project, my documentation (use and administration) and the proje
 
 ## Conclusion
 ### Difficulties encountered
-The difficulties encountered are the automatic generation of a new project code, comprising two letters and two numbers, for each project created and being able to generate a PDF thanks to a button used for this purpose.
+The difficulties we encountered were the passwords encrypted by Wordpress that we couldn't get our code to decrypt when we logged in, the automatic generation of a new project code, consisting of two letters and two numbers, for each project created and being able to generate a PDF thanks to a button used for that.
 
 ### How could the application be improved ?
 The application could be improved with statistics such as the number of projects per unit, the number of inter-unit projects, ...
