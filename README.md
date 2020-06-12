@@ -76,9 +76,10 @@ echo $output;
 ```
 
 ### Step 5
-The fourth step was to create the connection interface. The solutions we had were either to take back the usernames and passwords used for the sessions and for the Intranet or that at the first connection the users register. We have chosen that users register when they first log in. This choice was made because the passwords being encrypted by Wordpress we could not make sure that they were decrypted by our code when connecting.
+The fifth step was to create the connection interface. The solutions we had were either to take back the usernames and passwords used for the sessions and for the Intranet or that at the first connection the users register. We have chosen that users register when they first log in. This choice was made because the passwords being encrypted by Wordpress we could not make sure that they were decrypted by our code when connecting.
 
 ### Step 6
+The sixth step was to be able to modify and delete in the forms.
 #### Modification
 ```
 $rqSql = "SELECT * from tprojet where IdProjet = $IdProjet";

@@ -76,10 +76,10 @@ echo $output;
 ```
 
 ### Étape 5
-La quatrième étape, a été de créer l’interface de connexions. Les solutions que nous avions était soit de reprendre les identifiants et les mots de passe utilisé pour les sessions et pour l’Intranet ou qu’à la première connexion les utilisateurs s’inscrivent. Nous avons choisi que les utilisateurs s’inscrivent lors de leur première connexion. Ce choix a été fait car les mots de passe étant crypté par Wordpress on n’arrivait pas à faire en sorte qu’ils soient décryptés par notre code lors de la connexion.
+La cinquième étape, a été de créer l’interface de connexions. Les solutions que nous avions était soit de reprendre les identifiants et les mots de passe utilisé pour les sessions et pour l’Intranet ou qu’à la première connexion les utilisateurs s’inscrivent. Nous avons choisi que les utilisateurs s’inscrivent lors de leur première connexion. Ce choix a été fait car les mots de passe étant crypté par Wordpress on n’arrivait pas à faire en sorte qu’ils soient décryptés par notre code lors de la connexion.
 
 ### Étape 6
-La cinquième étape, a été de pouvoir modifier et supprimer dans les formulaires.
+La sixième étape, a été de pouvoir modifier et supprimer dans les formulaires.
 
 #### Modification
 ```
