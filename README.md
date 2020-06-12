@@ -164,10 +164,10 @@ Handling of incidents and requests for assistance related to the candidate's are
 Development of production and supply documents.
 
 #### Skills implemented
-A1.4.1, Project participation.
-A4.1.1, Proposal of an application solution.
-A4.1.2, Design or adaptation of the user interface of an application solution.
-A4.1.3, Database design or adaptation.
+A1.4.1, Project participation.  
+A4.1.1, Proposal of an application solution.  
+A4.1.2, Design or adaptation of the user interface of an application solution.  
+A4.1.3, Database design or adaptation.  
 A4.1.10, Writing of user documentation.
 
 ### How could the application be improved ?
