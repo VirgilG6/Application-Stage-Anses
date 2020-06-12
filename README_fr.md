@@ -15,10 +15,10 @@ git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 
 ## Objectif
 ### Contexte
-Pour le suivi des projets, l’entreprise utilisait un tableau Excel. Toute les cases du tableau n’était pas remplies car les chefs de projets ne prenaient pas le temps de tout remplir ou ils ne savaient pas comment en remplir certaines.
+Au cours de ma formation en BTS SIO (Services Informatiques aux Organisations) option SLAM (Solutions Logicielles et Applications Métiers), j’ai été amené à réaliser deux stages en entreprise (entre mai et juillet 2019 et entre janvier et février 2020), stages que j’ai réalisé dans l’entreprise ANSES (Agence Nationale de SEcurité Sanitaire de l’alimentation, de l’environnement et du travail) à Fougères (35). Durant ces stages, j’ai dû réaliser une application web pour le suivi des projets de l’entreprise.
 
 ### Objet de la mission
-La mission était de remplacer le tableau Excel par une application web qui serait disponible sur l’Intranet de l’entreprise.
+L’amélioration souhaité par l’entreprise était de remplacer le tableau Excel de suivi de projets par une application web qui serait disponible sur l’Intranet de l’entreprise. Car le tableau n’était pas complètement rempli car les chefs de projets ne prenaient pas le temps de tout remplir ou ils ne savaient pas comment en remplir certaines.
 
 
 ## Étapes

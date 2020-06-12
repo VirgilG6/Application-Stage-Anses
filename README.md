@@ -15,10 +15,10 @@ git clone https://github.com/VirgilG6/Application-Stage-Anses.git
 
 ## Objective
 ### Background
-For project tracking, the company used an Excel spreadsheet. Not all the boxes in the table were filled in because project managers did not take the time to fill in everything or did not know how to fill in some of them.
+During my training in BTS SIO (Computer Services to Organizations) option SLAM (Software Solutions and Business Applications), I had to do two internships in a company (between May and July 2019 and between January and February 2020), internships that I did in the company ANSES (Agence Nationale de SEcurité Sanitaire de l'alimentation, de l'environnement et du travail) in Fougères (35). During these internships, I had to build a web application for the follow-up of the company's projects.
 
 ### Object of the mission
-The mission was to replace the Excel table with a web application that would be available on the company's Intranet.
+The improvement desired by the company was to replace the Excel project tracking table with a web application that would be available on the company's Intranet. The table was not completely filled in because the project managers did not take the time to fill in everything or they did not know how to fill in some of them.
 
 
 ## Steps
