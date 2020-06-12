@@ -159,8 +159,8 @@ The difficulties we encountered were the passwords encrypted by Wordpress that w
 
 ### Skills
 #### Mandatory situations
-Participation in an IS evolution project (application and infrastructure solution focusing on the candidate's area of expertise).
-Handling of incidents and requests for assistance related to the candidate's area of specialty.
+Participation in an IS evolution project (application and infrastructure solution focusing on the candidate's area of expertise).  
+Handling of incidents and requests for assistance related to the candidate's area of specialty.  
 Development of production and supply documents.
 
 #### Skills implemented
