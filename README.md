@@ -33,7 +33,10 @@ The first step was to analyze the Excel spreadsheet we were provided to do the A
 After doing the Association Entity Model and the Relational Model, we were able to create the database.
 
 ### Step 3
-Then we created the interface of the application as well as the creation of a new project and the visualization of the project tracking forms.
+Next, we created the interface of the application with a project count and a search bar.
+
+### Step 4
+The fourth step was to create a new project and view the project tracking forms.
 
 #### Creating a new project code
 ```
@@ -72,10 +75,10 @@ while($row = mysqli_fetch_array($result)) {
 echo $output;
 ```
 
-### Step 4
+### Step 5
 The fourth step was to create the connection interface. The solutions we had were either to take back the usernames and passwords used for the sessions and for the Intranet or that at the first connection the users register. We have chosen that users register when they first log in. This choice was made because the passwords being encrypted by Wordpress we could not make sure that they were decrypted by our code when connecting.
 
-### Step 5
+### Step 6
 #### Modification
 ```
 $rqSql = "SELECT * from tprojet where IdProjet = $IdProjet";
@@ -114,11 +117,6 @@ while($row = mysqli_fetch_array($result))
 }
 echo $output;
 ```
-
-### Step 6
-1. Potential solutions
-2. Solution chosen
-3. How did you choose ?
 
 ### Step 7
 The last step was to make an administration area accessible only by administrators, for this we have created an administrator account that is directly inserted in the database.

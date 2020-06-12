@@ -33,7 +33,10 @@ La première étape, était d’analyser le tableau Excel qu’on nous avait fou
 Après avoir fait le Modèle Entité Association et le Modèle Relationnel, nous avons pu créer la base de données.
 
 ### Étape 3
-Ensuite, nous avons créer l’interface de l’application ainsi que la création d’un nouveau projet et la visualisation des formulaires de suivi de projets.
+Ensuite, nous avons créer l’interface de l’application avec un comptage des projets et une barre de recherche.
+
+### Étape 4
+La quatrième étape, était la création d’un nouveau projet et la visualisation des formulaires de suivi de projets.
 
 #### Création d’un nouveau code projet
 ```
@@ -72,10 +75,10 @@ while($row = mysqli_fetch_array($result)) {
 echo $output;
 ```
 
-### Étape 4
+### Étape 5
 La quatrième étape, a été de créer l’interface de connexions. Les solutions que nous avions était soit de reprendre les identifiants et les mots de passe utilisé pour les sessions et pour l’Intranet ou qu’à la première connexion les utilisateurs s’inscrivent. Nous avons choisi que les utilisateurs s’inscrivent lors de leur première connexion. Ce choix a été fait car les mots de passe étant crypté par Wordpress on n’arrivait pas à faire en sorte qu’ils soient décryptés par notre code lors de la connexion.
 
-### Étape 5
+### Étape 6
 La cinquième étape, a été de pouvoir modifier et supprimer dans les formulaires.
 
 #### Modification
@@ -116,11 +119,6 @@ while($row = mysqli_fetch_array($result))
 }
 echo $output;
 ```
-
-### Étape 6
-1. Solutions envisageables
-2. Solution choisie
-3. Comment c’est fait le choix ?
 
 ### Étape 7
 La dernière étape a été de faire un espace d’administration accessible seulement par les administrateurs, pour cela nous avons créé un compte administrateur qui est directement inséré dans la base de données.
