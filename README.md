@@ -153,17 +153,22 @@ The last step was to make an administration area accessible only by administrato
 ```
 
 
-## Skills
-### Which skills have been validated ?
-The skills that have been validated are participation in an IS evolution project (application and infrastructure solution focusing on the candidate's area of specialisation), handling incidents and requests for assistance related to the candidate's area of specialisation, drawing up documents relating to production and supply, proposing an application solution, designing or adapting the user interface of an application solution and designing or adapting a database.
-
-### Justification
-You can find my project, my documentation (use and administration) and the project database (assets folder) on my GitHub (https://github.com/VirgilG6/Application-Stage-Anses).
-
-
 ## Conclusion
 ### Difficulties encountered
 The difficulties we encountered were the passwords encrypted by Wordpress that we couldn't get our code to decrypt when we logged in, the automatic generation of a new project code, consisting of two letters and two numbers, for each project created and being able to generate a PDF thanks to a button used for that.
+
+### Skills
+#### Mandatory situations
+Participation in an IS evolution project (application and infrastructure solution focusing on the candidate's area of expertise).
+Handling of incidents and requests for assistance related to the candidate's area of specialty.
+Development of production and supply documents.
+
+#### Skills implemented
+A1.4.1, Project participation.
+A4.1.1, Proposal of an application solution.
+A4.1.2, Design or adaptation of the user interface of an application solution.
+A4.1.3, Database design or adaptation.
+A4.1.10, Writing of user documentation.
 
 ### How could the application be improved ?
 The application could be improved with statistics such as the number of projects per unit, the number of inter-unit projects, ...
