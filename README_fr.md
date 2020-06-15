@@ -155,7 +155,7 @@ La dernière étape a été de faire un espace d’administration accessible seu
 
 ## Conclusion
 ### Difficultés rencontrées
-Les difficultés qu’on a rencontrées sont les mots de passe crypté par Wordpress qu’on n’arrivait pas à faire en sorte qu’ils soient décryptés par notre code lors de la connexion, la génération automatique d’un nouveau code projet, comprenant deux lettres et deux chiffres, pour chaque projet créé et pouvoir générer un PDF grâce à un bouton servant à cela.
+Les difficultés rencontrées sont les mots de passe crypté par Wordpress qu’on n’arrivait pas à faire en sorte qu’ils soient décryptés par notre code lors de la connexion, la génération automatique d’un nouveau code projet, comprenant deux lettres et deux chiffres, pour chaque projet créé et pouvoir générer un PDF grâce à un bouton servant à cela.
 
 ### Compétences
 #### Situations obligatoires

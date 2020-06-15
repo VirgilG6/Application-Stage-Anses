@@ -154,7 +154,7 @@ The last step was to make an administration area accessible only by administrato
 
 ## Conclusion
 ### Difficulties encountered
-The difficulties we encountered were the passwords encrypted by Wordpress that we couldn't get our code to decrypt when we logged in, the automatic generation of a new project code, consisting of two letters and two numbers, for each project created and being able to generate a PDF thanks to a button used for that.
+The difficulties encountered are the passwords encrypted by Wordpress that we could not make them decrypted by our code when logging in, the automatic generation of a new project code, consisting of two letters and two numbers, for each project created and being able to generate a PDF thanks to a button used for that.
 
 ### Skills
 #### Mandatory situations
