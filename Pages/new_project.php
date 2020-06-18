@@ -160,10 +160,10 @@ echo "					<li class='session submit'><a href='form_connection/disconnection.php
      							
      									<table class="table" style='width:100%'>
   										    <tr>
-     									        <th> ARC </th> <th> TC </th> <th> AB2R </th> <th> EMAD </th> <th> Direction </th>
+     									        <th> Unite1 </th> <th> Unite2 </th> <th> Unite3 </th> <th> Unite4 </th> <th> Direction </th>
      								        </tr> 
      							    	    <tr>
-     								    	    <td> <input type='radio' name='UniteL' value='ARC'> </td> <td> <input type='radio' name='UniteL' value='TC'> </td> <td> <input type='radio' name='UniteL' value='AB2R'> </td> <td> <input type='radio' name='UniteL' value='EMAD' > </td> <td> <input type='radio' name='UniteL' value='Direction' > </td>
+     								    	    <td> <input type='radio' name='UniteL' value='Unite1'> </td> <td> <input type='radio' name='UniteL' value='Unite2'> </td> <td> <input type='radio' name='UniteL' value='Unite3'> </td> <td> <input type='radio' name='UniteL' value='Unite4' > </td> <td> <input type='radio' name='UniteL' value='Direction' > </td>
      								        </tr>
      								    </table>
      							</p>
@@ -172,10 +172,10 @@ echo "					<li class='session submit'><a href='form_connection/disconnection.php
      							
      									<table class="table" style='width:100%'>
   										    <tr>
-     									        <th> ARC </th> <th> TC </th> <th> AB2R </th> <th> EMAD </th> <th> Direction </th>
+     									        <th> Unite1 </th> <th> Unite2 </th> <th> Unite3 </th> <th> Unite4 </th> <th> Direction </th>
      								        </tr> 
      							    	    <tr>
-     								    	    <td> <input type='checkbox' name='UniteAssocier[]' value='ARC'> </td> <td> <input type='checkbox' name='UniteAssocier[]' value='TC'> </td> <td> <input type='checkbox' name='UniteAssocier[]' value='AB2R'> </td> <td> <input type='checkbox' name='UniteAssocier[]' value='EMAD' > </td> <td> <input type='checkbox' name='UniteAssocier[]' value='Direction' > </td>
+     								    	    <td> <input type='checkbox' name='UniteAssocier[]' value='Unite1'> </td> <td> <input type='checkbox' name='UniteAssocier[]' value='Unite2'> </td> <td> <input type='checkbox' name='UniteAssocier[]' value='Unite3'> </td> <td> <input type='checkbox' name='UniteAssocier[]' value='Unite4' > </td> <td> <input type='checkbox' name='UniteAssocier[]' value='Direction' > </td>
      								        </tr>
      								    </table>
      							</p>
@@ -184,10 +184,10 @@ echo "					<li class='session submit'><a href='form_connection/disconnection.php
      							
      									<table class="table" style='width:100%'>
   										    <tr>
-     									        <th> R&D </th> <th> Référence </th> <th> Laboratoire </th>
+     									        <th> Domaine1 </th> <th> Domaine2 </th> <th> Domaine3 </th>
      								        </tr> 
      							    	    <tr>
-     								    	    <td> <input type='radio' name='Domaine' value='R&D'> </td> <td> <input type='radio' name='Domaine' value='Référence'> </td> <td> <input type='radio' name='Domaine' value='Laboratoire'> </td> 
+     								    	    <td> <input type='radio' name='Domaine' value='Domaine1'> </td> <td> <input type='radio' name='Domaine' value='Domaine2'> </td> <td> <input type='radio' name='Domaine' value='Domaine3'> </td> 
      								        </tr>
      								    </table>
      							</p>
