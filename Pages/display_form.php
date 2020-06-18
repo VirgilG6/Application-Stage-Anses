@@ -28,7 +28,7 @@ $connect->set_charset("utf8") ;
 echo "<form enctype='multipart/form-data'>
 	<center>
 		
-		<img src='../images/Anses_logo.jpg'/> <br /> <br /> <br /> <br /> <br /> <br />  <h1 id='title'> Suivi de projet </h1>
+		<img src='../images/logo.png'/> <br /> <br /> <br /> <br /> <br /> <br />  <h1 id='title'> Suivi de projet </h1>
 		
 
 		<br><br><br><br>

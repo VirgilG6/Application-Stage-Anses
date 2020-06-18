@@ -153,35 +153,26 @@ CREATE TABLE ttypemethode
 
 INSERT INTO tuser(user_login,user_password,user_email,user_role,user_lastname,user_name)
 VALUES
-("admin","9cf95dacd226dcf43da376cdb6cbba7035218921","intranetfougeres@anses.fr","ROLE_ADMIN","admin","admin");
+("vgoudal","9cf95dacd226dcf43da376cdb6cbba7035218921","virgilgoudal@hotmail.fr","ROLE_ADMIN","Goudal","Virgil");
 
 
 INSERT INTO tdomtech(Domainetechnique)		
 VALUES	
-("Analytique"),
-("Pharmacocinétique"),
-("Pharmacodynamie"),
-("Toxicocinétique"),
-("Toxicodynamie"),
-("Bactériologie"),
-("Expérimentation animale"),
-("Biologie moléculaire"),
-("Statistiques"),
-("Modèle mathématique");
+("Domainetechnique1"),
+("Domainetechnique2"),
+("Domainetechnique3"),
+("Domainetechnique4");
 
 INSERT INTO ttypesubstance(Typesubstance)		
 VALUES	
-("Antibiotiques"),
-("Biocides désinfectants"),
-("Toxines"),
-("Nano-matériaux");
+("Typesubstance1"),
+("Typesubstance2"),
+("Typesubstance3"),
+("Typesubstance4");
 
 INSERT INTO ttypemethode(Typemethode)		
 VALUES	
-("LC-MSMS"),
-("QPCR"),
-("HCS"),
-("LC-UV/FLUO"),
-("WGS"),
-("Microscopie"),
-("Métagénomique");
+("Typemethode1"),
+("Typemethode2"),
+("Typemethode3"),
+("Typemethode4");
